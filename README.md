@@ -1,9 +1,9 @@
 
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Hi+I’m+Dhruvil+Mamtora;Learning+to+code+from+scratch;Breaking+things+and+fixing+them+later&center=true&width=440&height=45&font=Fira+Code&pause=1000&color=00FFAA&vCenter=true&size=22" />
+# 👋 Hi, I’m Dhruvil Mamtora
 
+Just a curious human trying to learn how to code from scratch 
 
----
 
 ## 🚀 About Me
 
