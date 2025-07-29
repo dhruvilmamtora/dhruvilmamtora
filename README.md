@@ -10,7 +10,7 @@ Just a curious human trying to learn how to code from scratch
 
 1. 🤹‍♂️ I start 10 projects and finish none (but I’m trying)  
 2. 🧠 Learning to code from scratch because chaos is fun  
-3. 💾 My code runs… after 27 errors and 3 breakdowns  
+3. 💾 My code runs after 27 errors and 3 breakdowns  
 4. 🚀 Goal: make something that works on the first try (lol)
 
 ---
@@ -28,7 +28,7 @@ Just a curious human trying to learn how to code from scratch
 ## 📫 Contact Me
 
 - 📧 dhruvilmamtora308@gmail.com  
-- 💼 [GitHub](https://github.com/DhruvilMamtora)
+- 💼 [GitHub](https://github.com/dhruvilmamtora)
 
 ---
 
